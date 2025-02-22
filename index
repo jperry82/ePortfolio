@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>My ePortfolio</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f4f4f4;
+      margin: 0;
+      padding: 0;
+      color: #333;
+    }
+    header {
+      background: #333;
+      color: #fff;
+      padding: 20px 0;
+      text-align: center;
+    }
+    nav {
+      background: #444;
+      text-align: center;
+      padding: 10px 0;
+    }
+    nav a {
+      color: #fff;
+      margin: 0 15px;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    nav a:hover {
+      text-decoration: underline;
+    }
+    .container {
+      max-width: 960px;
+      margin: 20px auto;
+      background: #fff;
+      padding: 20px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    section {
+      margin-bottom: 40px;
+    }
+    h1, h2 {
+      margin-top: 0;
+    }
+    footer {
+      background: #333;
+      color: #fff;
+      text-align: center;
+      padding: 10px 0;
+      position: relative;
+      bottom: 0;
+      width: 100%;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Welcome to My ePortfolio</h1>
+    <p>Showcasing my journey and achievements in Computer Science</p>
+  </header>
+  
+  <nav>
+    <a href="#intro">Introduction</a>
+    <a href="#artifacts">Artifacts</a>
+    <a href="#narratives">Narratives</a>
+    <a href="#code-review">Code Review</a>
+    <a href="#self-assessment">Self-Assessment</a>
+  </nav>
+  
+  <div class="container">
+    <section id="intro">
+      <h2>Introduction</h2>
+      <p>Hello! I'm [Your Name], and this ePortfolio represents my professional journey through the Computer Science program. Here, you will find a collection of projects, enhancement narratives, and a reflective self-assessment that highlight my technical growth and accomplishments.</p>
+    </section>
+    
+    <section id="artifacts">
+      <h2>Artifacts</h2>
+      <p>This section contains the original and enhanced versions of my project code. Each artifact demonstrates improvements in areas such as software design, algorithm efficiency, and secure database practices.</p>
+      <!-- You can ad
