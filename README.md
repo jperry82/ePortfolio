@@ -44,7 +44,7 @@ This repository is integrated with GitHub Pages, providing a live, navigable ver
 
 ## Contact
 
-If you have any questions, feedback, or require additional information, please feel free to reach out at [your email address].
+If you have any questions, feedback, or require additional information, please feel free to reach out at jperry204@gmail.com.
 
 ---
 
