@@ -1,6 +1,3 @@
-Below is the updated README.md file incorporating the original artifact links:
-
-```markdown
 # ePortfolio
 
 This repository contains my final ePortfolio for the CS 499 Capstone project. It showcases my growth and expertise as a computer science professional through a collection of enhanced artifacts, reflective narratives, a code review video, and a professional self-assessment.
