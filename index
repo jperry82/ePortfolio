@@ -45,6 +45,13 @@
     h1, h2 {
       margin-top: 0;
     }
+    ul {
+      list-style-type: none;
+      padding: 0;
+    }
+    ul li {
+      margin-bottom: 10px;
+    }
     footer {
       background: #333;
       color: #fff;
@@ -65,6 +72,7 @@
   <nav>
     <a href="#intro">Introduction</a>
     <a href="#artifacts">Artifacts</a>
+    <a href="#branches">Branches</a>
     <a href="#narratives">Narratives</a>
     <a href="#code-review">Code Review</a>
     <a href="#self-assessment">Self-Assessment</a>
@@ -73,10 +81,48 @@
   <div class="container">
     <section id="intro">
       <h2>Introduction</h2>
-      <p>Hello! I'm Josh Perry, and this ePortfolio represents my professional journey through the Computer Science program. Here, you will find a collection of projects, enhancement narratives, and a reflective self-assessment that highlight my technical growth and accomplishments.</p>
+      <p>Hello! I'm [Your Name], and this ePortfolio represents my professional journey through the Computer Science program. Here, you will find a collection of projects, enhancement narratives, and a reflective self-assessment that highlight my technical growth and accomplishments.</p>
     </section>
     
     <section id="artifacts">
       <h2>Artifacts</h2>
       <p>This section contains the original and enhanced versions of my project code. Each artifact demonstrates improvements in areas such as software design, algorithm efficiency, and secure database practices.</p>
-      <!-- You can ad
+      <!-- Additional links or embedded views for your artifacts can be added here -->
+    </section>
+    
+    <section id="branches">
+      <h2>Repository Branches</h2>
+      <p>Access the different branches implemented in this portfolio:</p>
+      <ul>
+        <li><a href="https://github.com/jperry82/ePortfolio/tree/main" target="_blank">Main Branch</a></li>
+        <li><a href="https://github.com/jperry82/ePortfolio/tree/enhanced-software" target="_blank">Enhanced Software Engineering Branch</a></li>
+        <li><a href="https://github.com/jperry82/ePortfolio/tree/enhanced-algorithms" target="_blank">Enhanced Algorithms and Data Structures Branch</a></li>
+        <li><a href="https://github.com/jperry82/ePortfolio/tree/enhanced-databases" target="_blank">Enhanced Databases & Secure Coding Branch</a></li>
+      </ul>
+    </section>
+    
+    <section id="narratives">
+      <h2>Narratives</h2>
+      <p>Each artifact is accompanied by a narrative document that explains the enhancement process, the challenges encountered, and the skills developed during the project.</p>
+      <!-- Insert links or embedded views of your narrative documents -->
+    </section>
+    
+    <section id="code-review">
+      <h2>Code Review Video</h2>
+      <p>Watch my code review video, which provides an overview of the current code, areas for improvement, and my plans for enhancement.</p>
+      <p><a href="https://www.youtube.com/" target="_blank">View Code Review Video</a></p>
+      <!-- Replace the URL with your actual video link -->
+    </section>
+    
+    <section id="self-assessment">
+      <h2>Professional Self-Assessment</h2>
+      <p>In my self-assessment, I reflect on my journey through the Computer Science program, the skills I have acquired, and how these experiences align with my professional goals. This document sets the stage for the rest of my portfolio.</p>
+      <!-- Add a link to your self-assessment document if available -->
+    </section>
+  </div>
+  
+  <footer>
+    <p>&copy; 2025 [Your Name]. All rights reserved.</p>
+  </footer>
+</body>
+</html>
