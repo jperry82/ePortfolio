@@ -87,42 +87,86 @@
     <section id="artifacts">
       <h2>Artifacts</h2>
       <p>This section contains the original and enhanced versions of my project code. Each artifact demonstrates improvements in areas such as software design, algorithm efficiency, and secure database practices.</p>
-      <!-- Additional links or embedded views for your artifacts can be added here -->
+      <ul>
+        <li>
+          <a href="https://github.com/jperry82/ePortfolio/tree/Enhanced-Artifacts" target="_blank">
+            Enhanced Artifacts Branch
+          </a>
+        </li>
+        <li>
+          <a href="https://github.com/jperry82/ePortfolio/tree/Original-Artifacts" target="_blank">
+            Original Artifacts Branch
+          </a>
+        </li>
+        <li>
+          <a href="https://github.com/jperry82/ePortfolio/tree/software-design" target="_blank">
+            Software Design Branch
+          </a>
+        </li>
+      </ul>
     </section>
     
     <section id="branches">
       <h2>Repository Branches</h2>
-      <p>Access the different branches implemented in this portfolio:</p>
+      <p>Access the various branches implemented in this portfolio:</p>
       <ul>
-        <li><a href="https://github.com/jperry82/ePortfolio/tree/main" target="_blank">Main Branch</a></li>
-        <li><a href="https://github.com/jperry82/ePortfolio/tree/enhanced-software" target="_blank">Enhanced Software Engineering Branch</a></li>
-        <li><a href="https://github.com/jperry82/ePortfolio/tree/enhanced-algorithms" target="_blank">Enhanced Algorithms and Data Structures Branch</a></li>
-        <li><a href="https://github.com/jperry82/ePortfolio/tree/enhanced-databases" target="_blank">Enhanced Databases & Secure Coding Branch</a></li>
+        <li>
+          <a href="https://github.com/jperry82/ePortfolio/tree/main" target="_blank">
+            Main Branch
+          </a>
+        </li>
+        <li>
+          <a href="https://github.com/jperry82/ePortfolio/tree/enhanced-software" target="_blank">
+            Enhanced Software Engineering Branch
+          </a>
+        </li>
+        <li>
+          <a href="https://github.com/jperry82/ePortfolio/tree/enhanced-algorithms" target="_blank">
+            Enhanced Algorithms and Data Structures Branch
+          </a>
+        </li>
+        <li>
+          <a href="https://github.com/jperry82/ePortfolio/tree/enhanced-databases" target="_blank">
+            Enhanced Databases & Secure Coding Branch
+          </a>
+        </li>
       </ul>
     </section>
     
     <section id="narratives">
       <h2>Narratives</h2>
       <p>Each artifact is accompanied by a narrative document that explains the enhancement process, the challenges encountered, and the skills developed during the project.</p>
-      <!-- Insert links or embedded views of your narrative documents -->
+      <!-- You can add additional narrative links here if available -->
     </section>
     
     <section id="code-review">
-      <h2>Code Review Video</h2>
+      <h2>Code Review</h2>
       <p>Watch my code review video, which provides an overview of the current code, areas for improvement, and my plans for enhancement.</p>
-      <p><a href="https://www.youtube.com/" target="_blank">View Code Review Video</a></p>
-      <!-- Replace the URL with your actual video link -->
+      <p>
+        <a href="https://github.com/jperry82/ePortfolio/tree/code-review" target="_blank">
+          Code Review Branch
+        </a>
+      </p>
+      <p>
+        <a href="https://www.youtube.com/" target="_blank">View Code Review Video</a>
+      </p>
+      <!-- Replace the URL with your actual video link if needed -->
     </section>
     
     <section id="self-assessment">
-      <h2>Professional Self-Assessment</h2>
+      <h2>Self-Assessment</h2>
       <p>In my self-assessment, I reflect on my journey through the Computer Science program, the skills I have acquired, and how these experiences align with my professional goals. This document sets the stage for the rest of my portfolio.</p>
+      <p>
+        <a href="https://github.com/jperry82/ePortfolio/tree/self-assessment" target="_blank">
+          Self-Assessment Branch
+        </a>
+      </p>
       <!-- Add a link to your self-assessment document if available -->
     </section>
   </div>
   
   <footer>
-    <p>&copy; 2025 [Your Name]. All rights reserved.</p>
+    <p>&copy; 2025 Josh Perry. All rights reserved.</p>
   </footer>
 </body>
 </html>
