@@ -150,18 +150,21 @@
       <p>
         <a href="https://www.youtube.com/" target="_blank">View Code Review Video</a>
       </p>
-      <!-- Replace the URL with your actual video link if needed -->
     </section>
     
     <section id="self-assessment">
       <h2>Self-Assessment</h2>
       <p>In my self-assessment, I reflect on my journey through the Computer Science program, the skills I have acquired, and how these experiences align with my professional goals. This document sets the stage for the rest of my portfolio.</p>
       <p>
+        <a href="https://github.com/jperry82/ePortfolio/raw/refs/heads/self-assessment/Self-Assessment.docx" target="_blank">
+          Download Self-Assessment Document
+        </a>
+      </p>
+      <p>
         <a href="https://github.com/jperry82/ePortfolio/tree/self-assessment" target="_blank">
           Self-Assessment Branch
         </a>
       </p>
-      <!-- Add a link to your self-assessment document if available -->
     </section>
   </div>
   
