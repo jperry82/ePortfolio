@@ -54,7 +54,7 @@ These repositories represent the initial projects that served as the foundation 
 ## Viewing the ePortfolio
 
 This repository is integrated with GitHub Pages, providing a live, navigable version of the ePortfolio.  
-**Live Site:** [Insert Your GitHub Pages URL Here]
+**Live Site:** (https://jperry82.github.io/ePortfolio/)
 
 ## Contact
 
